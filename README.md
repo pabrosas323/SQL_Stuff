@@ -191,13 +191,13 @@ ORDER BY
 # Results
 Note: I used Python to generate the plots of the most important queries I wanted to highlight. 
 ### Query 1. 
-![](project_sql/assets/1.png)
+![](all_folders/assets/1.png)
 ### Query 3.
 This query gave us a good idea of which skills to look out for in each skill type: In terms of coding languages, knowing SQL and Python will give you a high likelihood of matching with various job roles. Similarly, it would be more advantageous statistcally speaking to know Tableau over PowerBI, since Tableau has a higher skill count.
-![](project_sql/assets/3.png)
+![](all_folders/assets/3.png)
 ### Query 4.
 We see that  SVN (legacy systems) has the highest average salaries of all the skills. This demonstrates that specialized expertise in emerging or older technologies can lead to high salaries. DataRobot and MXNet being the 4th and 6th highest salaries (respectively) highlight the growing demand for AI-driven analytics.
-![](project_sql/assets/4.png)
+![](all_folders/assets/4.png)
 ### Query 5.
 This query gives us the most useful insights where we can maximize both skill likelihood and salary. It shows which skills will lead us to the best outcomes in terms of maximizing these two previously mentioned quantities. In conclusion, knowing SQL, Python and Tableau leads to maximizing both skill likelihood and yearly salary. 
-![](project_sql/assets/5.png)
+![](all_folders/assets/5.png)
